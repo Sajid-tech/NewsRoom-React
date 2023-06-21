@@ -22,7 +22,7 @@ const App = () => {
         <LoadingBar
           height={3}
           color='#f11946'
-          progress={ }
+          progress={progress}
 
         />
         <NavBar />
