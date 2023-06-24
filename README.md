@@ -5,7 +5,8 @@
 #if you get any error that means Api keys exceed the limit so pls try some times
 
 # newsroom app interface
-![newsapp](https://github.com/Sajid-tech/newsapp-fbc/assets/80850448/ddd5a5a8-dc67-48b9-8416-2ab41261f62a)
+
+![newsapp](https://github.com/Sajid-tech/NewsRoom-React/assets/80850448/ab965314-de1d-4e93-a97d-2601690e44f6)
 
 # Getting Started with Create React App
 
